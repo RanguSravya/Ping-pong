@@ -1,4 +1,4 @@
-# LAN Ping Pong Game (TCP + ncurses)
+# Ping Pong Game 
 
 ## Overview
 This project implements a **real-time two-player ping pong game** over a **Local Area Network (LAN)** using **TCP sockets** in C.  
